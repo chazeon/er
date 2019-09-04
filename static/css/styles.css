@@ -120,3 +120,16 @@ table tr th, table tr td {
   margin:0;
   padding:6px 13px;
 }
+
+.code, code {
+    font-family: FMono-Regular, Consolas, "Liberation Mono", Menlo, monospace;
+    font-size: 0.9em;
+}
+
+hr {
+    border-width: 1px;
+    border-bottom: none;
+    border-color: rgba(0,0,0,0.1);
+    margin-top: 2em;
+    margin-bottom: 1.5em;
+}
